@@ -1,0 +1,17 @@
+Data/
+*csv
+*nc
+*Rdata
+*Rda
+
+Data/NCEI
+*csv
+*nc
+*Rdata
+*Rda
+
+Data/ESWD
+*csv
+*nc
+*Rdata
+*Rda
